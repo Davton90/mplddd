@@ -1,4 +1,6 @@
-            {
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist//tes.ts/browser",
   "rewrites": [
     { "source": "/(.*)", "destination": "/tes.ts" }
   ]
